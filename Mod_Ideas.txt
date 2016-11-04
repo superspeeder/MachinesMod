@@ -1,0 +1,13 @@
+MACHINES
+- Generators
+ * Tier 1 Generator
+   Uses Coal, Charcoal, LavaBucket
+   15 RF per tick
+   10,000 RF in Coal
+   7,500 RF in Charcoal
+   100,000 RF in LavaBucket
+ * Tier 2 Generator
+   Uses All Assigned Fuels
+   100 RF per tick
+   Assigned RF in Config
+ * Lava
